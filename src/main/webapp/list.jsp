@@ -18,7 +18,6 @@
 		text-align: left;
 		color: blue;
 	}
-
 	input[type=submit]{
 		width: 300px;
 		height: 30px;
